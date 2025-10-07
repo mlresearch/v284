@@ -1,0 +1,98 @@
+---
+booktitle: Proceedings of The 19th International Conference on Neurosymbolic Learning
+  and Reasoning
+shortname: NeSy 2025
+volume: '284'
+year: '2025'
+start: &1 2025-09-08
+end: 2025-09-10
+published: 2025-10-07
+conference_number: '19'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: NeSy-2025
+month: 0
+cycles: false
+bibtex_editor: H. Gilpin, Leilani and Giunchiglia, Eleonora and Hitzler, Pascal and
+  van Krieken, Emile
+editor:
+- given: Leilani
+  family: H. Gilpin
+- given: Eleonora
+  family: Giunchiglia
+- given: Pascal
+  family: Hitzler
+- given: Emile
+  family: Krieken
+  prefix: van
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 19th International Conference on Neurosymbolic Learning and Reasoning
+    Held in UC Santa Cruz, Santa Cruz, CA, USA on 08-10 September 2025
+
+  Published as Volume 284 by the Proceedings of Machine Learning Research on 07 October 2025.
+
+  Volume Edited by:
+    Leilani H. Gilpin
+    Eleonora Giunchiglia
+    Pascal Hitzler
+    Emile van Krieken
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: '08--10 Sep'
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v284"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v284
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v284
+email: ''
+conference:
+  name: Conference on Neurosymbolic Learning and Reasoning
+  url: https://2025.nesyconf.org/
+  location: UC Santa Cruz, Santa Cruz, CA, USA
+  dates:
+  - *1
+  - 2025-09-09
+  - 2025-09-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: nesy25_cleaned_clean.bib
+# Site settings
+# Original source:  nesy25_cleaned_clean.bib
