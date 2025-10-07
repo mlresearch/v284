@@ -1,7 +1,6 @@
 ---
 title: 'Towards Explainable Depression Detection: A Neurosymbolic Approach to Uncover
   Social Media Signals with Generative AI'
-section: Poster
 software: https://github.com/MahdaviNejad/ProtoDep
 openreview: JW0bICKKB3
 abstract: 'Depression remains a pervasive mental health disorder that demands prompt

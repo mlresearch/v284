@@ -93,6 +93,6 @@ link_visibility:
   arxiv: true
   doi: true
   website: true
-orig_bibfile: nesy25_cleaned_clean.bib
+orig_bibfile: nesy25_clean_clean.bib
 # Site settings
-# Original source:  nesy25_cleaned_clean.bib
+# Original source:  nesy25_clean_clean.bib

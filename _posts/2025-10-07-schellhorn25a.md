@@ -1,6 +1,5 @@
 ---
 title: 'mULLER: A Modular Monad-Based Semantics of the Neurosymbolic ULLER Framework'
-section: Poster
 software: https://github.com/cherryfunk/mULLER
 openreview: zIsnMqATI6
 abstract: ULLER (Unified Language for LEarning and Reasoning) provides a single first-order

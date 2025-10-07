@@ -1,7 +1,6 @@
 ---
 title: Neurosymbolic models based on hybrids of convolutional neural networks and
   decision trees
-section: Poster
 openreview: NdbjM5ZCor
 abstract: Building on previous work, we propose a specific form of neurosymbolic model
   consisting of the composition of convolutional neural network layers with a sparse

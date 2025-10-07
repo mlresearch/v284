@@ -1,7 +1,6 @@
 ---
 title: Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence
   Systems
-section: Poster
 software: https://github.com/AniruddhaChattopadhyay/research-metatuning
 openreview: 4T8HP1SHOW
 abstract: Neurosymbolic artificial intelligence (AI) systems combine neural network

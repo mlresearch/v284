@@ -1,6 +1,5 @@
 ---
 title: Generating Safety-Critical Automotive C-programs using LLMs with Formal Verification
-section: Poster
 openreview: xcLrUIeGo3
 abstract: We evaluate the feasibility of generating formally verified C code that
   adheres to both functional and non-functional requirements using Large Language

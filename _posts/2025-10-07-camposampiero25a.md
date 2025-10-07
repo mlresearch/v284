@@ -1,6 +1,5 @@
 ---
 title: Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty?
-section: Poster
 openreview: ZcdBwzcBmV
 abstract: 'This work presents a first evaluation of two state-of-the-art Large Reasoning
   Models (LRMs), OpenAI’s o3-mini and DeepSeek R1, on analogical reasoning, focusing

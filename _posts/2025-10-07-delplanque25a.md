@@ -1,6 +1,5 @@
 ---
 title: A Comparative Analysis of Neurosymbolic Methods for Link Prediction
-section: Poster
 openreview: hCyqbFapJi
 abstract: 'Link prediction on knowledge graphs is relevant to various applications,
   such as recommendation systems, question answering, and entity search. This task

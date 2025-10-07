@@ -1,6 +1,5 @@
 ---
 title: 'Act-to-Ground: A Framework for Symbol Grounding in Planning Domains'
-section: Poster
 openreview: 2cbCcr4fdD
 abstract: 'Neurosymbolic decision-making agents inherit many of the critical transparency
   and interpretability benefits of planning-based symbolic agents but also face one

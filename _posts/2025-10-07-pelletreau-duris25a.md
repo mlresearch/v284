@@ -1,6 +1,5 @@
 ---
 title: Do Graph Neural Network States Contain Graph Properties?
-section: Poster
 software: https://github.com/TomPelletreauDuris/Probing-GNN-representations
 openreview: KZgFHRwNhf
 abstract: Deep neural networks (DNNs) achieve state-of-the-art performance on many
